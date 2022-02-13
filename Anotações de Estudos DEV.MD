@@ -6,7 +6,9 @@
 
 15/01/22 - PYTHON BÁSICO (INÍCIO)
 
-24/01/22 - PIP (EXTERNAL LIBRARIES)
+24/01/22 - PYTHON BÁSICO (...)
+
+	PIP (EXTERNAL LIBRARIES)
 	NO POWER SHELL : pip --version
 			 pip --help
 	pip install requests
