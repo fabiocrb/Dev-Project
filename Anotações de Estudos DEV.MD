@@ -1,13 +1,13 @@
-03/01/22 - ALGORITMO (INÍCIO)	
+:memo: **03/01/22** - ALGORITMO (INÍCIO)	
 
 	EXERCÍCIOS PASCALZIM, VISUALG30, PORTUGOL.    
-08/01/22 - ALGORITMO (CONCLUSÃO)	
+:memo: **08/01/22** - ALGORITMO (CONCLUSÃO)	
 
 ---//---
 
-15/01/22 - PYTHON BÁSICO (INÍCIO)
+:memo: **15/01/22** - PYTHON BÁSICO (INÍCIO)
 
-24/01/22 - PYTHON BÁSICO (...)
+:memo: **24/01/22** - PYTHON BÁSICO (...)
 
 	PIP (EXTERNAL LIBRARIES)
 	NO POWER SHELL : pip --version
@@ -15,13 +15,13 @@
 	pip install requests
 	python -m pip install --upgrade pip
 	
-	PESQUISAR TEXTO NO OUTPUT : Ctrl+F
+:bulb:	PESQUISAR TEXTO NO OUTPUT : Ctrl+F 
 
-12/02/22 - PYTHON BÁSICO (CONCLUSÃO)
+:memo: **12/02/22** - PYTHON BÁSICO (CONCLUSÃO)
 
 ---//---
 
-05/02/22 - GIT / GITHUB (INÍCIO)
+:memo: **05/02/22** - GIT / GITHUB (INÍCIO)
 	
 	WINDOWS				║	LINUX
 					║	
@@ -36,11 +36,11 @@
 	
 	pwd => MOSTRAR CAMINHO (EX: /C/USERS/ADMIN/.SSH)
 	
-06/02/22 - GIT / GITHUB (...)
+:memo: **06/02/22** - GIT / GITHUB (...)
 
 	ls -a OU dir -a => VER ARQUIVOS OCULTOS
 
-12/02/22 - GIT / GITHUB (...)
+:memo: **12/02/22** - GIT / GITHUB (...)
 	
 	git init
 	git status
@@ -67,10 +67,9 @@
 	git remote -v
 	git push origin main
 
-13/02/22 - GIT / GITHUB (CONCLUSÃO)
+:memo: **13/02/22** - GIT / GITHUB (CONCLUSÃO)
 
-	git pull origin main
+	git pull origin main (ou master) 
 	git clone URL
 
 ---//---
-
